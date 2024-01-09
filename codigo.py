@@ -61,5 +61,5 @@ for linha in tabela.index:
     pyautogui.press("tab")
     # enviar o produto
     pyautogui.press("enter")
-
+    
     pyautogui.scroll(5000)
